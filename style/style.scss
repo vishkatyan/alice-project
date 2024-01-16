@@ -13,7 +13,8 @@ box-sizing: border-box;
 //navbar styling
 nav{
     header{
-        // position: fixed !important;
+         position: fixed;
+        z-index: 100;
         height: 60px;
         width: 100%;
         //to blue the navbar background :
